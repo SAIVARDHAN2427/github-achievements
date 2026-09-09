@@ -1,2 +1,1 @@
-# github-achievements
-Learning and practicing GitHub achievements and workflows.
+GitHub achievements practice.
